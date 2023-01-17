@@ -1,0 +1,37 @@
+* {
+    font-family: 'Jua', sans-serif;
+}
+
+h1 {
+    color:red;
+}
+
+body {
+    background-color: #333;
+}
+
+.container{
+
+
+}
+
+#jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top : 30px;
+    text-align: center;
+    background-color: white;
+
+}
+
+.row {
+    margin-top : 40px;
+}
+
+#review-button {
+    width : 100%;
+}
+
+.modal-content{
+    width:150%;
+}
